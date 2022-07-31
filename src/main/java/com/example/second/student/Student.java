@@ -14,7 +14,6 @@ public class Student {
             allocationSize = 1
     )
 
-//    c
     @GeneratedValue(
             strategy = GenerationType.SEQUENCE,
             generator = "student_sequence"
